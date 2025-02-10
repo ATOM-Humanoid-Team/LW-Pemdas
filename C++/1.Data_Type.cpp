@@ -1,5 +1,20 @@
 // Fundamental Data Types
 
+//Bahasa pemrograman yang mengharuskan variabel untuk dideklarasikan dengan tipe data sebelum digunakan disebut "statically typed language" (bahasa dengan tipe statis). 
+// Contoh bahasa seperti ini adalah:
+// C  C++
+//Java
+//Go
+//Rust
+
+// Sebaliknya, bahasa yang tidak mengharuskan deklarasi tipe data karena bisa menentukannya secara otomatis disebut "dynamically typed language" (bahasa dengan tipe dinamis), 
+// seperti:
+// Python
+// JavaScript
+// Ruby
+// PHP
+
+
 // Integer (int)
 // Integers are whole numbers that can store both positive and negative values. 
 // The size of int depends on the system architecture (usually 4 bytes).
