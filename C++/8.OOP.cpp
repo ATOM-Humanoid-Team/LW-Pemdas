@@ -24,7 +24,7 @@ myDog.name = "Fido";
 myDog.age = 3;
 myDog.bark(); // Output: Fido barks!
 
-//Encapsulation
+//Encapsulation 
 // Encapsulation is an object-oriented programming concept that binds together the data and functions that manipulate the data,
 
 // Private = only accessible within the class
@@ -55,7 +55,7 @@ myDog.setName("Fido");
 myDog.age(3); // Error: 'int Dog::age' is private within this context
 
 
-//Inheritance
+//Inheritance ( pewarisan )
 // Inheritance is a mechanism in which one class acquires the properties and behavior of another class.
 
 class Animal {
@@ -77,7 +77,7 @@ myDog.breathe(); // Output: I can breathe
 myDog.bark(); // Output: Dog barks!
 
 
-//Polymorphism
+//Polymorphism ( overloading )
 // Polymorphism is a feature of object-oriented programming that allows us to perform a single action in different ways.
 
 class Animal {
@@ -102,3 +102,4 @@ public:
 };
 
 //prinsip polymorphism sendiri adalah ketika kita membuat sebuah fungsi yang sama namun memiliki beberapa implementasi yang berbeda
+// https://www.instagram.com/p/C8ZlUlFym2P/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
